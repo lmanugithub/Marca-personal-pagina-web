@@ -1,0 +1,45 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header, nav, section, footer {
+  padding: 20px;
+}
+
+/* Estilos del encabezado */
+header {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Estilos de la navegación */
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* Estilos de las secciones */
+section {
+  margin-bottom: 20px;
+}
+
+/* Estilos del pie de página */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
